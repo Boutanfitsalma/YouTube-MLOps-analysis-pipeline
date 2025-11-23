@@ -75,7 +75,7 @@ graph LR
     F --> H[📈 Dashboard]
 ```
 
-1. **Envoi de commande** : Un simple message WhatsApp déclenche tout le processus
+1. **Envoi de commande** : Un simple message WhatsApp (GoDeploy) déclenche tout le processus
 2. **Extraction** : Récupération des vidéos récentes et de leurs commentaires
 3. **Analyse IA** : 4 modèles analysent en parallèle les sentiments, émotions et toxicité
 4. **Rapport** : Génération et envoi automatique d'un rapport détaillé
