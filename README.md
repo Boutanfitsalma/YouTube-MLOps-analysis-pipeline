@@ -9,8 +9,6 @@
 [![n8n](https://img.shields.io/badge/n8n-Workflow-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
-[Installation rapide](#-installation) • [Documentation](#-documentation) • [Démo](#-screenshots) • [Contributeurs](#-contributeurs)
-
 ---
 
 **Pipeline MLOps complet pour analyser les sentiments, émotions et toxicité des commentaires YouTube en temps réel**
@@ -57,6 +55,10 @@ Visualisation en temps réel des résultats d'analyse avec Streamlit
 ---
 
 ## 📸 Aperçu du projet
+
+
+
+https://github.com/user-attachments/assets/c6a7fe3b-1104-4640-906d-b05dd7e8f21b
 
 
 
